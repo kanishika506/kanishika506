@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Kanishika Verma
 
-<!--
-**kanishika506/kanishika506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I like building things with data & technology
 
-Here are some ideas to get you started:
+`Python` • `Machine Learning` • `APIs` • `Data Science` • `Linux`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech I Use
+
+**Languages**  
+Python • C • C++ • JavaScript • PHP • HTML • CSS  
+
+**Frameworks & Tools**  
+Flask • FastAPI • API Development • Data Pipelines  
+
+**Data Science Stack**  
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn  
+
+**Core Concepts**  
+Data Structures • Linux Fundamentals  
+
+---
+
+## 📊 About Me
+
+- 🎓 Final Year Data Science Student  
+- ⚡ Fast learner who enjoys exploring new technologies  
+- 🔍 Interested in solving real-world problems with data  
+- 🚀 Currently improving in ML & backend systems  
+
+---
+
+## 📫 Contact
+
+- Email: **kanishikaverma8@gmail.com**  
+- LinkedIn: **https://www.linkedin.com/in/kanishika-verma**  
+
+---
+
+> *Always learning, always building.*
