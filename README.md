@@ -34,7 +34,7 @@ Data Structures • Linux Fundamentals
 ## 📫 Contact
 
 - Email: **kanishikaverma8@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/kanishika-verma**  
+- LinkedIn: **https://www.linkedin.com/in/kanishika-verma-0aa8413b0/**  
 
 ---
 
